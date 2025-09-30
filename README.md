@@ -1,2 +1,2 @@
 # Ict-lab-
-Lab 06-Developing a simple web page using html, css, &amp;amp; bootstrap
+Lab 06 tasks-Developing a simple web page using html, css, &amp;amp; bootstrap
